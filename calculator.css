@@ -129,9 +129,9 @@ button:active {
 .watermark {
     position: absolute;
     bottom: 20px;
-    right: 20px;
+    right: 50px;
     color: rgba(255, 255, 255, 0.5);
-    font-size: 0.9rem;
+    font-size: 5px;
     letter-spacing: 1.5px;
     font-family: cursive;
     z-index: 20;
